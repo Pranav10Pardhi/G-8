@@ -1,4 +1,4 @@
-# 📅 Week 1 – Deliverables
+# Week 1 – Deliverables
 
 ## 🎯 Objective:
 Collect and clean sales data to prepare it for further analysis and visualization.
