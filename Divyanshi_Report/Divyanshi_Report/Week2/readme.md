@@ -1,6 +1,6 @@
 # Week 2 Deliverables – Retail Store Sales Analysis  
 **Submitted by:** Divyanshi Doser   
-**Project:** Sales Data Analysis & Dashboard (Enterprise Project 1)  
+**Project:** Sales Data Analysis & Dashboard (Project 1)  
 
 ---
 
