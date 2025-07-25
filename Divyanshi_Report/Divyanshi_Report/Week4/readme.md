@@ -16,7 +16,6 @@ Finalize Power BI dashboard, extract key insights from data, and document strate
 - Compiled **insights** from charts and time analysis  
 - Created final **recommendations** based on data trends  
 - Converted report into PDF format
-
 ---
 
 ## 🔍 Key Insights
@@ -39,9 +38,9 @@ Finalize Power BI dashboard, extract key insights from data, and document strate
 ---
 
 ## 📁 Files Included
-- `Report.pdf` – Final report with insights & visuals  
+- `Final Report.pdf` – Final report with insights & visuals  
 - `Retail Store.pbix` – Final power bi dashboard  
-- `Cleaned_retail_store_sales.xlsx` – Clean excel file with pivot tables and excel dashboard
+- `Cleaned_Retail_store_Dashboard.xlsx` – Clean excel file with pivot tables and excel dashboard
 - `retail_store_sales.csv` – Raw messy data
 ---
 
