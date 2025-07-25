@@ -1,4 +1,4 @@
-# Week 4 – Deliverables (Final Report & Business Recommendations)  
+# Week 4 – Deliverables (Final Polished Report & Business Recommendations)  
 **Project:** Retail Store Sales Analysis  
 **Submitted by:** Divyanshi Doser 
 
@@ -38,11 +38,10 @@ Finalize Power BI dashboard, extract key insights from data, and document strate
 ---
 
 ## 📁 Files Included
-- `Final Report.pdf` – Final report with insights & visuals  
+- `Retal Store Analysis Documentation.pdf` – Final polished presentation with insights & visuals  
 - `Retail Store.pbix` – Final power bi dashboard  
 - `Cleaned_Retail_store_Dashboard.xlsx` – Clean excel file with pivot tables and excel dashboard
 - `retail_store_sales.csv` – Raw messy data
 ---
 
-## ✅ Final Status: Project Completed  
-
+## ✅ Final Status: Project Completed
