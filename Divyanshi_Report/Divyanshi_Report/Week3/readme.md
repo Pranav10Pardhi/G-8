@@ -14,7 +14,7 @@ To build a interactive dashboard in Power BI using custom KPIs and charts to ana
 
 - Imported cleaned Excel data into Power BI  
 - Created a **custom calendar table** using DAX  
-- Built **1-to-many relationship** between calendar and sales data  
+- Built **many-to-1 relationship** between calendar and sales data  
 - Added **Month Name** and **Day Name** columns using DAX  
 - Created **Total Sales** measure using DAX  
 - Designed visuals:  
@@ -24,6 +24,8 @@ To build a interactive dashboard in Power BI using custom KPIs and charts to ana
 - Implemented interactive navigation:  
   - Back Button  
   - Insights View Button
+  - Clear all slicer button
+  - Page navigation buttons
 
 ---
 
@@ -34,10 +36,8 @@ To build a interactive dashboard in Power BI using custom KPIs and charts to ana
 - Pie chart: Sales by Category  
 - Matrix Table: QTR & YEAR Sales  by item names
 - Slicers: Year, Category, Location
-
 ---
 
 ## 🔜 Next Steps (Week 4)
 - Final polish and layout clean-up  
-- Document insights and business recommendations
-- 
+- Document insights and business recommendations.
