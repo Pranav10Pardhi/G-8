@@ -38,7 +38,7 @@ Finalize Power BI dashboard, extract key insights from data, and document strate
 ---
 
 ## 📁 Files Included
-- `Retal Store Analysis Documentation.pdf` – Final polished presentation with insights & visuals  
+- `Retail Store Analysis Documentation.pdf` – Final polished presentation with insights & visuals  
 - `Retail Store.pbix` – Final power bi dashboard  
 - `Cleaned_Retail_store_Dashboard.xlsx` – Clean excel file with pivot tables and excel dashboard
 - `retail_store_sales.csv` – Raw messy data
